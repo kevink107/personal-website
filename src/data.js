@@ -30,13 +30,13 @@ export const contentPortfolio = [
     {
         id: 1,
         title: "WellBuddies",
-        img: "https://www.pinclipart.com/pindetail/xJRwox_content-marketing-graphic-design-clipart/",
+        img: "./assets/buddy.png",
     },
-    {
-        id: 2,
-        title: "Greenlight",
-        img: "https://www.pinclipart.com/pindetail/xJRwox_content-marketing-graphic-design-clipart/",
-    },
+    // {
+    //     id: 2,
+    //     title: "Greenlight",
+    //     img: "https://www.pinclipart.com/pindetail/xJRwox_content-marketing-graphic-design-clipart/",
+    // },
 ];
 
 export const courseLinks = [
