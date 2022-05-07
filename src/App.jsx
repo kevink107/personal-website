@@ -1,7 +1,6 @@
 import './App.scss';
 import Topbar from "./components/topbar/Topbar";
 import Intro from "./components/intro/Intro";
-import Contact from "./components/contact/Contact";
 import Works from "./components/works/Works";
 import Courses from "./components/courses/Courses";
 import Menu from "./components/menu/Menu";

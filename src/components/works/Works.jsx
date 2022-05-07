@@ -3,7 +3,7 @@ import { useEffect, useState } from "react";
 import "./works.scss";
 import WorksList from "../worksList/WorksList";
 import { profiles, contentPortfolio } from "../../data";
-import { Link } from "react-router-dom";
+
 
 export default function Works() {
     const [selected, setSelected] = useState("featured");

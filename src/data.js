@@ -21,7 +21,7 @@ export const profiles = [
         id: 4,
         title: "Resume",
         img: "https://png.pngtree.com/png-clipart/20190705/original/pngtree-vector-resume-icon-png-image_4187299.jpg",
-        link: "./assets/Kevin\ King_CV_2022\ copy.pdf"
+        link: "./assets/Kevin King_CV_2022 copy.pdf"
     }
 
 ];

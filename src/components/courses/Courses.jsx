@@ -1,10 +1,6 @@
 import "./courses.scss"
-import { courseLinks } from "../../data";
-import { useState } from "react";
 
 export default function Courses({ courses, setCourses }) {
-    const [data, setdata] = useState([]);
-
     return (
         <div className="courses" id="courses">
             <ul>
