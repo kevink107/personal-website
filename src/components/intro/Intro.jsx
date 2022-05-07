@@ -13,7 +13,7 @@ export default function Intro() {
                     <img src="../assets/profile-photo.png" alt=""/>
                 </div>
             </div>
-                
+
             <div className="right">
                 <div className="wrapper">
                     <h2>About Me</h2>
