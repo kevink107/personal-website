@@ -31,12 +31,14 @@ export const contentPortfolio = [
         id: 1,
         title: "WellBuddies",
         img: "./assets/buddy.png",
+        link: "https://github.com/lark-hacks/buddy",
     },
-    // {
-    //     id: 2,
-    //     title: "Greenlight",
-    //     img: "https://www.pinclipart.com/pindetail/xJRwox_content-marketing-graphic-design-clipart/",
-    // },
+    {
+        id: 2,
+        title: "Rabbit Hole",
+        img: "./assets/rabbit1.png",
+        link: "https://github.com/kevink107/wiki-app",
+    }
 ];
 
 export const courseLinks = [
