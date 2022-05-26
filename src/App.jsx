@@ -11,8 +11,10 @@ function App() {
   const [menuOpen, setMenuOpen] = useState(false)
   return (
     <div className="App">
+      {/* menuOpen is initially false for both Topbar and Menu */}
       <Topbar menuOpen={menuOpen} setMenuOpen={setMenuOpen}/>
       <Menu menuOpen={menuOpen} setMenuOpen={setMenuOpen}/>
+      {/* Each section in the website */}
       <div className="sections">
         <Intro/>
         <Works/>

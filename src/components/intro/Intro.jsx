@@ -1,9 +1,4 @@
-// import React from 'react'
-// import { init } from "ityped"
-// import { useEffect, useRef } from "react"
 import "./intro.scss"
-
-
 
 export default function Intro() {
     return (
@@ -28,8 +23,6 @@ export default function Intro() {
                         Entrepreneurship Education and Discovery (SEED). In my free time, I enjoy spending
                         time with my three dogs, working out, and spending time with my family and friends.
                     </body>
-                    {// refer to video at around 1:15:00 for text typing animation
-                    }
                 </div>
                 <a href="#works">
                     <img src="../assets/down-arrow.png" alt=""/>
