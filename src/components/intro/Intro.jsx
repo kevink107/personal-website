@@ -17,7 +17,7 @@ export default function Intro() {
                     <body>
                         Hi, my name is Kevin King. I was born in Hong Kong to American expat parents,
                         but we eventually moved back to the Bay Area when I was eleven years old. I'm 
-                        currently a sophomore at Dartmouth College, where I'm majoring in Computer Science
+                        currently a senior (Class of 2024) at Dartmouth College, where I'm majoring in Computer Science
                         and minoring in Engineering Sciences. I am also a member of the Dartmouth Rugby
                         Football Club, Dartmouth Investment and Philanthropy Program (DIPP), and Student 
                         Entrepreneurship Education and Discovery (SEED). In my free time, I enjoy spending

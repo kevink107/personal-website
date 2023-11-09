@@ -11,7 +11,7 @@ function Resume() {
 
   return (
     <div>
-      <Document file="Kevin King_CV_2022 copy.pdf" onLoadSuccess={onDocumentLoadSuccess}>
+      <Document file="King, Kevin Resume copy.pdf" onLoadSuccess={onDocumentLoadSuccess}>
         <Page pageNumber={pageNumber} />
       </Document>
       <p>

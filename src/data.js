@@ -21,7 +21,7 @@ export const profiles = [
         id: 4,
         title: "Resume",
         img: "https://png.pngtree.com/png-clipart/20190705/original/pngtree-vector-resume-icon-png-image_4187299.jpg",
-        link: "https://drive.google.com/file/d/1_KI0q4IS8OkaWDsyffCexYB1eJ6EaZM7/view?usp=sharing"
+        link: "https://drive.google.com/file/d/1M0YeYl1B6kdwcBrYGZ2FVDtcDxiKF4fn/view?usp=sharing"
     }
 
 ];
@@ -29,17 +29,40 @@ export const profiles = [
 export const contentPortfolio = [
     {
         id: 1,
+        title: "PowderPal (GitHub)",
+        img: "./assets/powderpal.png",
+        link: "https://github.com/kevink107/HCI_PowderPal"
+    },
+    {
+        id: 2,
+        title: "PowderPal (Figma Prototype)",
+        img: "./assets/powderpal.png",
+        link: "https://www.figma.com/file/y8yvQrjE6OGrXm7oFgkp07/PowderPal-Hi-Fis-(Copy)?type=design&t=uokJ3T1TWG1JAyDU-6"
+    },
+    {
+        id: 3,
+        title: "Computer Graphics Final Project",
+        img: "./assets/beachball_cs77.png",
+        link: "https://github.com/kevink107/cpk_cs77final"
+    },
+    {
+        id: 4,
         title: "WellBuddies",
         img: "./assets/buddy.png",
         link: "https://github.com/lark-hacks/buddy",
     },
     {
-        id: 2,
+        id: 5,
         title: "Rabbit Hole",
         img: "./assets/rabbit1.png",
         link: "https://github.com/kevink107/wiki-app",
-    }
-    
+    },
+    {
+        id: 6,
+        title: "Finance Sentiment Analysis",
+        img: "https://upload.wikimedia.org/wikipedia/commons/d/d7/GitHub_font_awesome.svg",
+        link: "https://github.com/kevink107/finance-sentiment-analysis"
+    },
 ];
 
 export const courseLinks = [
