@@ -6,10 +6,23 @@ export default function Courses({ courses, setCourses }) {
             {/* each list item contains hyperlink href and a title for the course*/}
             <ul>
                 <h1>Courses</h1>
+                
                 <li>
                     <a
                         href="http://dartmouth.smartcatalogiq.com/current/orc/Departments-Programs-Undergraduate/Computer-Science/COSC-Computer-Science-Undergraduate/COSC-10">
                         COSC 10: Problem Solving via Object-Oriented Programming
+                    </a>
+                </li>
+                <li>
+                    <a
+                        href="">
+                        COSC 30: Discrete Mathematics in Computer Science
+                    </a>
+                </li>
+                <li>
+                    <a
+                        href="">
+                        COSC 31: Algorithms
                     </a>
                 </li>
                 <li>
@@ -26,8 +39,26 @@ export default function Courses({ courses, setCourses }) {
                 </li>
                 <li>
                     <a
+                        href="">
+                        COSC 67: Introduction to Human-Computer Interaction
+                    </a>
+                </li>
+                <li>
+                    <a
+                        href="">
+                        COSC 72: Accelerated Computational Linguistics
+                    </a>
+                </li>
+                <li>
+                    <a
                         href="http://dartmouth.smartcatalogiq.com/current/orc/Departments-Programs-Undergraduate/Computer-Science/COSC-Computer-Science-Undergraduate/COSC-74">
                         COSC 74: Machine Learning and Statistical Data Analysis
+                    </a>
+                </li>
+                <li>
+                    <a
+                        href="">
+                        COSC 77: Computer Graphics
                     </a>
                 </li>
                 <li>
