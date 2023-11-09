@@ -1,6 +1,7 @@
 // import React from 'react'
 import "./topbar.scss";
-import {Person, Mail} from "@material-ui/icons";
+import MailIcon from "@mui/icons-material/Mail";
+import PersonIcon from '@mui/icons-material/Person';
 
 export default function Topbar({ menuOpen, setMenuOpen }) {
     return (
@@ -14,11 +15,11 @@ export default function Topbar({ menuOpen, setMenuOpen }) {
                     </a>
                     {/* uses icons from @material-ui/icons website */}
                     <div className="itemCointainer">
-                        <Person className="icon" />
+                        <PersonIcon className="icon" />
                         <span>+1 650 722 1202</span>
                     </div>
                     <div className="itemCointainer">
-                        <Mail className="icon" />
+                        <MailIcon className="icon" />
                         <span>kevin.m.king@icloud.com</span>
                     </div>
                 </div>
