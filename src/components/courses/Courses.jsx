@@ -15,13 +15,13 @@ export default function Courses({ courses, setCourses }) {
                 </li>
                 <li>
                     <a
-                        href="">
+                        href="https://dartmouth.smartcatalogiq.com/en/current/orc/departments-programs-undergraduate/computer-science/cosc-computer-science-undergraduate/cosc-30/">
                         COSC 30: Discrete Mathematics in Computer Science
                     </a>
                 </li>
                 <li>
                     <a
-                        href="">
+                        href="https://dartmouth.smartcatalogiq.com/en/current/orc/departments-programs-undergraduate/computer-science/cosc-computer-science-undergraduate/cosc-31/">
                         COSC 31: Algorithms
                     </a>
                 </li>
@@ -39,13 +39,13 @@ export default function Courses({ courses, setCourses }) {
                 </li>
                 <li>
                     <a
-                        href="">
+                        href="https://dartmouth.smartcatalogiq.com/en/current/orc/departments-programs-undergraduate/computer-science/cosc-computer-science-undergraduate/cosc-67/">
                         COSC 67: Introduction to Human-Computer Interaction
                     </a>
                 </li>
                 <li>
                     <a
-                        href="">
+                        href="https://dartmouth.smartcatalogiq.com/en/current/orc/departments-programs-undergraduate/computer-science/cosc-computer-science-undergraduate/cosc-72/">
                         COSC 72: Accelerated Computational Linguistics
                     </a>
                 </li>
@@ -57,7 +57,7 @@ export default function Courses({ courses, setCourses }) {
                 </li>
                 <li>
                     <a
-                        href="">
+                        href="https://dartmouth.smartcatalogiq.com/en/current/orc/departments-programs-undergraduate/computer-science/cosc-computer-science-undergraduate/cosc-77/">
                         COSC 77: Computer Graphics
                     </a>
                 </li>
