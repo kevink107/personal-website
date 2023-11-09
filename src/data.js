@@ -39,6 +39,7 @@ export const contentPortfolio = [
         img: "./assets/rabbit1.png",
         link: "https://github.com/kevink107/wiki-app",
     }
+    
 ];
 
 export const courseLinks = [
